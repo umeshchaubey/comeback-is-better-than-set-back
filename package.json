@@ -1,0 +1,24 @@
+{
+  "name": "git-text",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umeshchaubey/comeback-is-better-than-set-back.git"
+  },
+  "author": "uc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umeshchaubey/comeback-is-better-than-set-back/issues"
+  },
+  "homepage": "https://github.com/umeshchaubey/comeback-is-better-than-set-back#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
